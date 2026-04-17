@@ -51,7 +51,7 @@
 <h2 align="left">💫 Github Stats:</h2>
 <p align="left"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYYEJI&&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosiesong-dev&&show_icons=true&theme=dracula)
 </u>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=150&section=footer" />
