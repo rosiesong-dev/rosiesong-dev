@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on web/app and AI-related research and development with leading tech companies.
 - 🤔 I’m looking for help with Gaining experince in AI-related projects.
 - 💬 Ask me about AI, web/app development, or anything related to gaining experience in tech!
-- 📫 How to reach me: 22100396@handong.ac.kr
+- 📫 How to reach me: 22100396@handong.ac.kr or rosie.dev@gamil.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Yo hablo Español ><
 - 📕 Education: Handong Global University and LeTourneau University
