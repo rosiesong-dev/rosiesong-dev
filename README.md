@@ -75,6 +75,9 @@
 <p align="left"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosiesong-dev&&show_icons=true&theme=dracula)
+💫 GitHub Stats:
+
+![Rosie Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosiesong-dev&show_icons=true&theme=default)
 </u>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=efbaff&height=150&section=footer" />
