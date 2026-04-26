@@ -7,10 +7,10 @@
 <h2 align="left">🐰 About Me:</h2>
 <p align="left"> 
   
-- 🔭 I’m currently working on web/app and AI projects, with a strong focus on LLM-based systems!
-- 🌱 I’m currently learning advanced machine learning techniques, LLM applications, and various tools for web/app development (React, Flutter, Blazor, etc.).
-- 👯 I’m looking to collaborate on web/app and AI-related research and development, especially in LLM and AI systems.
-- 🤔 I’m looking for help with gaining experience in LLM and AI-related projects.
+- 🔭 I’m working on web/app and AI projects, with a focus on LLM-based systems and prompt engineering.
+- 🌱 I’m currently learning LLM applications, prompt engineering, and modern web/app tools (React, Flutter, Blazor, etc.)
+- 👯 I’m interested in collaborating on LLM, RAG systems, and AI application development.
+- 🤔 I'm looking for hands-on experience in LLM and prompt engineering projects.
 - 💬 Ask me about AI, LLMs, web/app development, or anything related to gaining experience in tech!
 - 📫 How to reach me: 22100396@handong.ac.kr (Univ) or rosio.dev@gmail.com (Tech)
 - 😄 Pronouns: She/Her
