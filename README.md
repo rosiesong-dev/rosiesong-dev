@@ -65,7 +65,7 @@
 
 <p align="left">
   <strong>DevOps & Tools:</strong><br>
-  Docker • Linux (Ubuntu) • Git • Postman • Figma • Raspberry Pi • Arduino
+  Docker • Linux (Ubuntu) • Git • Redis • Unity • Postman • Figma • Raspberry Pi • Arduino
 </p>
 
 
