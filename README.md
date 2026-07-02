@@ -60,7 +60,7 @@
 
 <p align="left">
   <strong>Databases & Cloud:</strong><br>
-  PostgreSQL • MySQL • Firebase • AWS
+  PostgreSQL • MySQL • MSSQL • Firebase • AWS
 </p>
 
 <p align="left">
