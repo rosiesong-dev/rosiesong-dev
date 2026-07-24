@@ -7,7 +7,7 @@
 <h2 align="left">🐰 About Me:</h2>
 <p align="left"> 
   
-- 🔭 I’m working on web/app and AI projects, with a focus on LLM-based systems and prompt engineering.
+- 🔭 I’m working on Unity developments and AI projects, with a focus on LLM-based systems and prompt engineering.
 - 🌱 I’m currently learning LLM applications, prompt engineering, and modern web/app tools (React, Flutter, Blazor, etc.)
 - 👯 I’m interested in collaborating on LLM, RAG systems, and AI application development.
 - 🤔 I'm looking for hands-on experience in LLM and prompt engineering projects.
