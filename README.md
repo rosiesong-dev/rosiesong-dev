@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning LLM applications, prompt engineering, and modern web/app tools (React, Flutter, Blazor, etc.)
 - 👯 I’m interested in collaborating on LLM, RAG systems, and AI application development.
 - 🤔 I'm looking for hands-on experience in LLM and prompt engineering projects.
-- 💬 Ask me about AI, LLMs, web/app development, or anything related to gaining experience in tech!
+- 💬 Ask me about AI, LLMs, Unity, web/app development, or anything related to gaining experience in tech!
 - 📫 How to reach me: 22100396@handong.ac.kr (Univ) or rosio.dev@gmail.com (Tech)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Hablo un poco de español, pero entiendo más de lo que puedo hablar >.<
