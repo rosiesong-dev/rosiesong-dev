@@ -7,16 +7,15 @@
 <h2 align="left">🐰 About Me:</h2>
 <p align="left"> 
   
-- 🔭 I’m working on Unity developments and AI projects, with a focus on LLM-based systems and prompt engineering.
-- 🌱 I’m currently learning LLM applications, prompt engineering, and modern web/app tools (React, Flutter, Blazor, etc.)
-- 👯 I’m interested in collaborating on LLM, RAG systems, and AI application development.
-- 🤔 I'm looking for hands-on experience in LLM and prompt engineering projects.
-- 💬 Ask me about AI, LLMs, Unity, web/app development, or anything related to gaining experience in tech!
-- 📫 How to reach me: ~~22100396@handong.ac.kr (Univ)~~ or rosio.dev@gmail.com (Tech)
+- 🔭 I’m working on Physical AI and AI engineering projects at MegazoneCloud, with a focus on data quality validation, data processing, and workflow orchestration.
+- 🌱 I’m currently exploring Physical AI, AI infrastructure, data quality frameworks (Great Expectations & Soda Core), and workflow orchestration tools (Airflow & Argo).
+- 👯 I’m interested in collaborating on LLM, RAG systems, AI application development, LAM, Physical AI, AI infrastructure, data quality frameworks (Great Expectations & Soda Core), and workflow orchestration tools (Airflow & Argo).
+- 🤔 I'm looking for hands-on experience in prompt engineering projects(LLM) or AI infrastructure projects.
+- 💬 Ask me about AI, LLMs, LAM, or anything related to gaining experience in tech!
+- 📫 How to reach me: yejisong@mz.co.kr (Work) or rosio.dev@gmail.com (Personal)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Hablo un poco de español, pero entiendo más de lo que puedo hablar >.<
-- 📕 Education: Handong Global University (🇰🇷) and LeTourneau University (🇺🇸)
-- 🗣️ Languages: Bilingual(Korean & English), Spanish
+- 🗣️ Languages: Bilingual(Korean & English), and Spanish
  
 
 </br>
