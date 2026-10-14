@@ -54,9 +54,20 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
+```html
 <p align="left">
   <strong>AI Engineering (Focus):</strong><br>
-  LangChain • LangGraph • RAG • LLM Integration • Vector DBs (PGVector, ChromaDB) • Ragas
+  LangChain • LangGraph • RAG • LLM Integration • Vector DBs (PGVector, ChromaDB) • Ragas • Physical AI
+</p>
+
+<p align="left">
+  <strong>Data Engineering & Quality:</strong><br>
+  Great Expectations • Soda Core • Data Quality Validation • Data Processing • Data Pipelines
+</p>
+
+<p align="left">
+  <strong>Workflow Orchestration:</strong><br>
+  Apache Airflow • Argo Workflows
 </p>
 
 <p align="left">
@@ -68,6 +79,7 @@
   <strong>DevOps & Tools:</strong><br>
   Docker • Linux (Ubuntu) • Git • Redis • Unity • Postman • Figma • Raspberry Pi • Arduino
 </p>
+```
 
 
 
