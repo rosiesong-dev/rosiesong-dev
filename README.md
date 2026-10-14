@@ -23,36 +23,74 @@
 </br>
 
 
+
 <h2 align="left">🛠 Languages and Tools</h2>
 
 <p align="left">
-  <!-- Languages -->
   <strong>Languages:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
 </p>
 
 <p align="left">
   <strong>Frontend & Backend:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" alt="Angular"/>
 </p>
 
 <p align="left">
-  <strong>AI / ML:</strong><br>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <strong>AI / ML & Physical AI:</strong><br>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" alt="Unity"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" alt="Raspberry Pi"/>
 </p>
+
+<p align="left">
+  <strong>LLM & AI Engineering:</strong><br>
+  LangChain • LangGraph • RAG • LLM Integration • PGVector • ChromaDB • Ragas
+</p>
+
+<p align="left">
+  <strong>Data Quality & Processing:</strong><br>
+  Great Expectations • Soda Core • Data Quality Validation • Data Pipelines
+</p>
+
+<p align="left">
+  <strong>Workflow Orchestration:</strong><br>
+  Apache Airflow • Argo Workflows
+</p>
+
+<p align="left">
+  <strong>Databases & Cloud:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="Microsoft SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
+</p>
+
+<p align="left">
+  <strong>DevOps & Tools:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+</p>
+
 
 
 <p align="left">
