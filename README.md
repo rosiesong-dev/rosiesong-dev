@@ -56,58 +56,6 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
-<p align="left">
-  <strong>LLM & AI Engineering:</strong><br>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LLM_Integration-4169E1?style=flat" alt="LLM Integration"/>
-  <img src="https://img.shields.io/badge/PGVector-336791?style=flat&logo=postgresql&logoColor=white" alt="PGVector"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Ragas-7B68EE?style=flat" alt="Ragas"/>
-</p>
-
-<p align="left">
-  <strong>Physical AI:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
-</p>
-
-<p align="left">
-  <strong>Data Quality & Processing:</strong><br>
-  <img src="https://img.shields.io/badge/Great_Expectations-4285F4?style=flat" alt="Great Expectations"/>
-  <img src="https://img.shields.io/badge/Soda_Core-7B61FF?style=flat" alt="Soda Core"/>
-  <img src="https://img.shields.io/badge/Data_Quality_Validation-2E8B57?style=flat" alt="Data Quality Validation"/>
-  <img src="https://img.shields.io/badge/Data_Processing-4682B4?style=flat" alt="Data Processing"/>
-  <img src="https://img.shields.io/badge/Data_Pipelines-708090?style=flat" alt="Data Pipelines"/>
-</p>
-
-<p align="left">
-  <strong>Workflow Orchestration:</strong><br>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo Workflows"/>
-</p>
-
-<p align="left">
-  <strong>Databases & Cloud:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
-
-<p align="left">
-  <strong>DevOps & Tools:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-</p>
-
 
 
 
