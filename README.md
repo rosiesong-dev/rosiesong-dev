@@ -54,7 +54,7 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
-```html
+
 <p align="left">
   <strong>AI Engineering (Focus):</strong><br>
   LangChain • LangGraph • RAG • LLM Integration • Vector DBs (PGVector, ChromaDB) • Ragas • Physical AI
@@ -79,7 +79,7 @@
   <strong>DevOps & Tools:</strong><br>
   Docker • Linux (Ubuntu) • Git • Redis • Unity • Postman • Figma • Raspberry Pi • Arduino
 </p>
-```
+
 
 
 
